@@ -29,7 +29,7 @@
     "@faouzkk/lyrics-finder": "^1.0.3",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "github:Luffy2ndAccount/Baileys",
+    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys#main",
     "@xaviabot/fb-downloader": "^1.0.14",
     "aptoide_scrapper_fixed": "^1.0.2",
     "axios": "^1.7.9",
