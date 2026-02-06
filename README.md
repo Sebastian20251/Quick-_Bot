@@ -53,7 +53,7 @@ YESSER MD</b>, ⚠️ </p>
 <br>
 
 4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1)  
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Sebastian20251/Quick-_Bot)  
 
 
 
